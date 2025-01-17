@@ -6,7 +6,7 @@ import Future from '../components/about/Future';
 
 const About = () => {
   return (
-    <div className="pt-16">
+    <div className="pt-5  ">
       <AboutHero />
       <Timeline />
       <Team />

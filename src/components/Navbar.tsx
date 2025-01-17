@@ -45,8 +45,8 @@ const Navbar = () => {
           <div className="flex-shrink-0">
             <img 
               src="/logo.png" 
-              alt="IAutomatic Services" 
-              className="h-12 transition-transform duration-300 hover:scale-105" 
+              className="h-20 transition-transform duration-300 hover:scale-105 logo"
+
             />
           </div>
           
